@@ -1,0 +1,17 @@
+1. React router
+2. router
+3.private rout / require auth
+Outlete
+
+
+# firebase
+1. react-firebase-hook
+
+# react-cutom hook 
+
+
+#Requirement
+1.bootstrap -done
+2. react firebase hook -done (npm install --save react-firebase-hooks)
+3.firebase -done(npm install firebase)
+4. react router -done (npm install react-router-dom@6)
